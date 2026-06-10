@@ -10,5 +10,6 @@ As an **engineering lead**, I focus on building enterprise-grade distributed sys
 
 ---
 
+[My dotfiles repository.](https://github.com/its-me/dotfiles)\
 [AUR packages I maintain.](https://aur.archlinux.org/packages?SeB=M&K=itsme)\
 [My crypto wallet addresses.](CRYPTO.md)
