@@ -11,5 +11,6 @@ As an **engineering lead**, I focus on building enterprise-grade distributed sys
 ---
 
 [My dotfiles repository.](https://github.com/its-me/dotfiles)\
+Container images I maintain on [GitHub](https://github.com/its-me?tab=packages), [Docker Hub](https://hub.docker.com/u/1tsme), and [Quay.io](https://quay.io/user/itsme/).\
 [AUR packages I maintain.](https://aur.archlinux.org/packages?SeB=M&K=itsme)\
 [My crypto wallet addresses.](CRYPTO.md)
