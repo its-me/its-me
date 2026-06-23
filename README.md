@@ -1,12 +1,12 @@
 # Sergey Kanafyev
 
-Tech-focused entrepreneur and engineering leader with over 20 years of experience across startups and the software development sector. I specialize in transforming complex technical challenges into scalable business assets.
+I am a tech-focused entrepreneur and engineering leader with over 20 years of experience across startups and software engineering. I specialize in transforming complex technical challenges into scalable business assets.
 
 ## About Me
 
-As a **startup founder**, I successfully scaled an international technology venture to a high valuation with minimal external capital, balancing the roles of CTO, COO, Product Manager, and tech recruiter simultaneously — leading cross-functional teams through the full lifecycle from recruitment to fundraising and strategic market positioning.
+As a **startup founder**, I successfully scaled an international technology venture to a high valuation with minimal external capital. I balanced the roles of CTO, COO, and Product Manager simultaneously, leading cross-functional teams through the full lifecycle: from initial talent acquisition to fundraising and strategic market positioning.
 
-As an **engineering lead**, I focus on building enterprise-grade distributed systems that are highly available and reliable. I have extensive experience in both cloud and bare-metal environments, including modernizing legacy systems, performing online migrations of complex mission-critical infrastructure while guaranteeing data safety and availability, and implementing robust automation for significant cost reduction.
+As an **engineering lead**, I build resilient, enterprise-grade distributed systems designed for maximum availability. My experience spans both cloud and bare-metal environments, with a proven track record of modernizing legacy systems, executing zero-downtime online migrations of mission-critical infrastructure, and implementing robust automation that drives significant cost reductions.
 
 ---
 
