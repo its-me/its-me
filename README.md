@@ -14,5 +14,5 @@ As an **engineering lead**, I build resilient, enterprise-grade distributed syst
 My [dotfiles](https://github.com/its-me/dotfiles) repository.\
 Container images I maintain on [GHCR](https://github.com/its-me?tab=packages), [Docker Hub](https://hub.docker.com/u/1tsme), and [Quay.io](https://quay.io/user/itsme/).\
 [AUR packages](https://aur.archlinux.org/packages?SeB=M&K=itsme) maintained by me.\
-My [custom GitHub Actions](https://github.com/search?q=user%3Aits-me+action+in%3Aname&type=repositories).\
+My [custom GitHub Actions](https://github.com/search?q=user%3Aits-me+action.+in%3Aname&type=repositories).\
 My [gists](https://gist.github.com/its-me).
