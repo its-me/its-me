@@ -8,7 +8,7 @@
 | Base |  |  | ✓ | [`0x309c7Ec0a760eE5ceb08c695fd9f67bd3BC8D659`](https://basescan.org/address/0x309c7Ec0a760eE5ceb08c695fd9f67bd3BC8D659) |
 | Bitcoin | BTC |  |  | [`bc1qz79l8nz29sljz4mphrp5z3uvaa0mehdeehk8j9`](https://www.blockchain.com/explorer/addresses/btc/bc1qz79l8nz29sljz4mphrp5z3uvaa0mehdeehk8j9) |
 | Bitcoin Cash | BCH |  |  | [`qp06y2ve99ajcfdn9jsglgpal7ludnqnhyjj65asz5`](https://explorer.bitcoin.com/bch/address/qp06y2ve99ajcfdn9jsglgpal7ludnqnhyjj65asz5) |
-| BNB Chain | BNB | ✓ | ✓ | [`0x309c7Ec0a760eE5ceb08c695fd9f67bd3BC8D659`](https://bscscan.com/address/0x309c7Ec0a760eE5ceb08c695fd9f67bd3BC8D659) |
+| BNB Chain | BNB | ✓ | ✓ | [`0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1`](https://bscscan.com/address/0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1) |
 | Dogecoin | DOGE |  |  | [`DQhBACmTFKYoeKGYyc3EmhwB3at9gPcif5`](https://dogechain.info/address/DQhBACmTFKYoeKGYyc3EmhwB3at9gPcif5) |
 | Ethereum | ETH | ✓ | ✓ | [`0x309c7Ec0a760eE5ceb08c695fd9f67bd3BC8D659`](https://etherscan.io/address/0x309c7Ec0a760eE5ceb08c695fd9f67bd3BC8D659) |
 | Litecoin | LTC |  |  | [`ltc1qf9z6rmksk9dum32rwsv7qtntzjhwsafyazme9y`](https://litecoinblockexplorer.net/address/ltc1qf9z6rmksk9dum32rwsv7qtntzjhwsafyazme9y) |
