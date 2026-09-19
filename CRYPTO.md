@@ -3,8 +3,8 @@
 | Network | Coin | USDT | USDC | Address |
 |---|---|---|---|---|
 | Aptos | APT | ✓ | ✓ | [`0xe93c12fdaa31743aac95d2bb12c98677812a49e7a87df5700b50bd37e3f0b7df`](https://explorer.aptoslabs.com/account/0xe93c12fdaa31743aac95d2bb12c98677812a49e7a87df5700b50bd37e3f0b7df) |
-| Arbitrum | ARB | ✓ | ✓ | [`0x309c7Ec0a760eE5ceb08c695fd9f67bd3BC8D659`](https://arbiscan.io/address/0x309c7Ec0a760eE5ceb08c695fd9f67bd3BC8D659) |
-| Avalanche C-Chain | AVAXC | ✓ | ✓ | [`0x309c7Ec0a760eE5ceb08c695fd9f67bd3BC8D659`](https://subnets.avax.network/c-chain/address/0x309c7Ec0a760eE5ceb08c695fd9f67bd3BC8D659) |
+| Arbitrum | ARB | ✓ | ✓ | [`0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1`](https://arbiscan.io/address/0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1) |
+| Avalanche C-Chain | AVAXC | ✓ | ✓ | [`0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1`](https://subnets.avax.network/c-chain/address/0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1) |
 | Base |  |  | ✓ | [`0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1`](https://basescan.org/address/0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1) |
 | Bitcoin | BTC |  |  | [`bc1qw2s7yrcr60w54fp2fhfgfps0lz6m7gt6g3r4uz`](https://www.blockchain.com/explorer/addresses/btc/bc1qw2s7yrcr60w54fp2fhfgfps0lz6m7gt6g3r4uz) |
 | Bitcoin Cash | BCH |  |  | [`qqaahfz58hu5guyxpfucpyshpceeucguxqdx3zhdml`](https://explorer.bitcoin.com/bch/address/qqaahfz58hu5guyxpfucpyshpceeucguxqdx3zhdml) |
