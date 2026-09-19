@@ -14,7 +14,7 @@
 | Litecoin | LTC |  |  | [`ltc1qe94nvk5znqptjetgyqlyj540y3y45rwqzmap3g`](https://litecoinblockexplorer.net/address/ltc1qe94nvk5znqptjetgyqlyj540y3y45rwqzmap3g) |
 | Monero | XMR |  |  | [`48cEATk2xBBFxuJMoKwJiwMZPqT4xRKbAJiMHGSRut3N9pR6eFbCQwtR3qa7JM58a8gL18fqJWkEtQibZasovEoWRByKTyj`](https://xmrchain.net/search?value=48cEATk2xBBFxuJMoKwJiwMZPqT4xRKbAJiMHGSRut3N9pR6eFbCQwtR3qa7JM58a8gL18fqJWkEtQibZasovEoWRByKTyj) |
 | Solana | SOL | ✓ | ✓ | [`CBEkeNv4UiAJLHZ7tQ39RgUmRoz8rZWQKpdEYHrSWvSH`](https://explorer.solana.com/address/CBEkeNv4UiAJLHZ7tQ39RgUmRoz8rZWQKpdEYHrSWvSH) |
-| TON | TON | ✓ | ✓ | [`UQCUdiOelg4PrHrwy2Rm0tGOUBBCXmCZfxKgDEbpMocKrydk`](https://tonscan.org/address/UQCUdiOelg4PrHrwy2Rm0tGOUBBCXmCZfxKgDEbpMocKrydk) |
+| TON | GRAM | ✓ | ✓ | [`UQBBhCZS5HUxMamRrEHb8J1GId3hbGEAVyXNGl6fMnrpVhUs`](https://tonscan.org/address/UQBBhCZS5HUxMamRrEHb8J1GId3hbGEAVyXNGl6fMnrpVhUs) |
 | TRON | TRX | ✓ | ✓ | [`TSwZGGfbUoDBruAjECiSpZxUNGr97XQs2L`](https://tronscan.org/#/address/TSwZGGfbUoDBruAjECiSpZxUNGr97XQs2L) |
 | XRP Ledger | XRP |  |  | [`rwdvxXurDPZ2NW1UKrKDXxpTSv3xSaZhty`](https://livenet.xrpl.org/accounts/rwdvxXurDPZ2NW1UKrKDXxpTSv3xSaZhty) |
 | Zcash | ZEC |  |  | [`t1Rho7LoJwz9Yvc7mAYG3PU1tVk2cGXe418`](https://cipherscan.app/address/t1Rho7LoJwz9Yvc7mAYG3PU1tVk2cGXe418) |
