@@ -9,11 +9,16 @@
 | Bitcoin | BTC |  |  | [`bc1qw2s7yrcr60w54fp2fhfgfps0lz6m7gt6g3r4uz`](https://www.blockchain.com/explorer/addresses/btc/bc1qw2s7yrcr60w54fp2fhfgfps0lz6m7gt6g3r4uz) |
 | Bitcoin Cash | BCH |  |  | [`qqaahfz58hu5guyxpfucpyshpceeucguxqdx3zhdml`](https://explorer.bitcoin.com/bch/address/qqaahfz58hu5guyxpfucpyshpceeucguxqdx3zhdml) |
 | BNB Chain | BNB | ✓ | ✓ | [`0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1`](https://bscscan.com/address/0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1) |
+| Cardano | ADA |  |  | [`addr1q8m0t9z6x9dkaljycgx2xzvwn7xendrk34sugggalsvrvlxt4tz4mmlf5ra36cmmlrhg3s6su5cxmryg78yvlmq65thszddtsl`](https://cardanoscan.io/address/addr1q8m0t9z6x9dkaljycgx2xzvwn7xendrk34sugggalsvrvlxt4tz4mmlf5ra36cmmlrhg3s6su5cxmryg78yvlmq65thszddtsl) |
 | Dogecoin | DOGE |  |  | [`DPiFBhFxvzEYyhUnXuWEuKNbs3EwpZ7HtZ`](https://dogechain.info/address/DPiFBhFxvzEYyhUnXuWEuKNbs3EwpZ7HtZ) |
 | Ethereum | ETH | ✓ | ✓ | [`0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1`](https://etherscan.io/address/0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1) |
+| Filecoin | FIL |  |  | [`f1oinaaokxeta4zz2axetdiiospvobqxfk65vif3y`](https://filfox.info/en/address/f1oinaaokxeta4zz2axetdiiospvobqxfk65vif3y) |
 | Litecoin | LTC |  |  | [`ltc1qe94nvk5znqptjetgyqlyj540y3y45rwqzmap3g`](https://litecoinblockexplorer.net/address/ltc1qe94nvk5znqptjetgyqlyj540y3y45rwqzmap3g) |
 | Monero | XMR |  |  | [`48cEATk2xBBFxuJMoKwJiwMZPqT4xRKbAJiMHGSRut3N9pR6eFbCQwtR3qa7JM58a8gL18fqJWkEtQibZasovEoWRByKTyj`](https://xmrchain.net/search?value=48cEATk2xBBFxuJMoKwJiwMZPqT4xRKbAJiMHGSRut3N9pR6eFbCQwtR3qa7JM58a8gL18fqJWkEtQibZasovEoWRByKTyj) |
+| NEAR | NEAR | ✓ | ✓ | [`89fbe9f0a4af86a3b956896708ece5879c272eb85263408dba9ea3df578dd756`](https://nearblocks.io/address/89fbe9f0a4af86a3b956896708ece5879c272eb85263408dba9ea3df578dd756) |
+| Polygon | POL | ✓ | ✓ | [`0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1`](https://polygonscan.com/address/0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1) |
 | Solana | SOL | ✓ | ✓ | [`GunMwKkQ512kNEuYnyXi3wcY8pYmeqmswjRuSGo1MGdx`](https://explorer.solana.com/address/GunMwKkQ512kNEuYnyXi3wcY8pYmeqmswjRuSGo1MGdx) |
+| Sui | SUI |  | ✓ | [`0x767342797710dff7d39ca74470ca56f6349182ded8285f2a80915339d6ac329f`](https://suiscan.xyz/mainnet/account/0x767342797710dff7d39ca74470ca56f6349182ded8285f2a80915339d6ac329f) |
 | TON | GRAM | ✓ | ✓ | [`UQBBhCZS5HUxMamRrEHb8J1GId3hbGEAVyXNGl6fMnrpVhUs`](https://tonscan.org/address/UQBBhCZS5HUxMamRrEHb8J1GId3hbGEAVyXNGl6fMnrpVhUs) |
 | TRON | TRX | ✓ | ✓ | [`TSwZGGfbUoDBruAjECiSpZxUNGr97XQs2L`](https://tronscan.org/#/address/TSwZGGfbUoDBruAjECiSpZxUNGr97XQs2L) |
 | XRP Ledger | XRP |  |  | [`r3kguixKsDNq46CetSi3qiqPSft5HL5Lkd`](https://livenet.xrpl.org/accounts/r3kguixKsDNq46CetSi3qiqPSft5HL5Lkd) |
