@@ -7,7 +7,7 @@
 | Avalanche C-Chain | AVAXC | ✓ | ✓ | [`0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1`](https://subnets.avax.network/c-chain/address/0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1) |
 | Base |  |  | ✓ | [`0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1`](https://basescan.org/address/0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1) |
 | Bitcoin | BTC |  |  | [`bc1qw2s7yrcr60w54fp2fhfgfps0lz6m7gt6g3r4uz`](https://www.blockchain.com/explorer/addresses/btc/bc1qw2s7yrcr60w54fp2fhfgfps0lz6m7gt6g3r4uz) |
-| Bitcoin Cash | BCH |  |  | [`qqaahfz58hu5guyxpfucpyshpceeucguxqdx3zhdml`](https://explorer.bitcoin.com/bch/address/qqaahfz58hu5guyxpfucpyshpceeucguxqdx3zhdml) |
+| Bitcoin Cash | BCH |  |  | [`qqaahfz58hu5guyxpfucpyshpceeucguxqdx3zhdml`](https://www.blockchain.com/explorer/addresses/bch/qqaahfz58hu5guyxpfucpyshpceeucguxqdx3zhdml) |
 | BNB Chain | BNB | ✓ | ✓ | [`0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1`](https://bscscan.com/address/0x1BaaB0CB6bE6e03430523Fa4F6dEF507aDF720A1) |
 | Cardano | ADA |  |  | [`addr1q8m0t9z6x9dkaljycgx2xzvwn7xendrk34sugggalsvrvlxt4tz4mmlf5ra36cmmlrhg3s6su5cxmryg78yvlmq65thszddtsl`](https://cardanoscan.io/address/addr1q8m0t9z6x9dkaljycgx2xzvwn7xendrk34sugggalsvrvlxt4tz4mmlf5ra36cmmlrhg3s6su5cxmryg78yvlmq65thszddtsl) |
 | Dogecoin | DOGE |  |  | [`DPiFBhFxvzEYyhUnXuWEuKNbs3EwpZ7HtZ`](https://dogechain.info/address/DPiFBhFxvzEYyhUnXuWEuKNbs3EwpZ7HtZ) |
